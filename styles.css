@@ -1,0 +1,18 @@
+body {
+    background-color: #1d1a1a; /* Light gray background */
+    font-family: Arial, sans-serif; /* Font style */
+    display: flex; /* Flexbox for centering */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 100vh; /* Full viewport height */
+    margin: 0; /* Remove default margin */
+}
+
+.container {
+    text-align: center; /* Center text */
+}
+
+.hello {
+    color: #0a4bf0; /* Dark gray text color */
+    font-size: 60px; /* Large font size */
+}
